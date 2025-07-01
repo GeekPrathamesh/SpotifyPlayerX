@@ -113,7 +113,7 @@ input {
     background-color: #1f1f1f;
     border-radius: 7px;
     width: 92%;
-    height: 20%;
+    height: 25%;
     display: flex;
     justify-content: flex-start;
 
@@ -183,7 +183,7 @@ input {
     height: 100%;
   }
   .card-container {
-    height: 66vh;
+    height: 70%;
     overflow: scroll;
   }
   .nav-icons {
